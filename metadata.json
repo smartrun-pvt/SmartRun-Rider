@@ -1,0 +1,6 @@
+{
+  "name": "EatFit Delivery Partner",
+  "description": "Hybrid delivery partner application for EatFit riders featuring real-time multi-pickup order management, onboarding, live navigation, earnings, leave requests, and Supabase & Firebase cross-platform data synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
